@@ -1,0 +1,29 @@
+<?php
+require 'controlador_agenda.php';
+$meusContatos = pegarBusca();
+?>
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Agenda</title>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body>
+<?php foreach($meusContatos as $contato): ?>
+    <tr>
+        <td><?= $contato['id'] ?></td>
+        <td><?= $contato['nome'] ?></td>
+        <td><?= $contato['email'] ?></td>
+        <td><?= $contato['telefone'] ?></td>
+        <td>
+            <a href="controlador_agenda.php?acao=excluir&id=<?= $contato['id'] ?>" class="btn btn-warning"> excluir </a>
+            <a href="editar.php?id=<?= $contato['id'] ?>" class="btn btn-primary">editar</a>
+        </td>
+    </tr>
+<?php endforeach; ?>
+
+    </body>
+</html>

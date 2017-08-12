@@ -1,0 +1,72 @@
+[
+    {
+        "id": "5980d2eedf103",
+        "nome": "Gean",
+        "email": "torinoge@gmail.com",
+        "senha": "ehoamor",
+        "confirmar": "ehoamor"
+    },
+    {
+        "id": "5981f90222f06",
+        "nome": "MACACO",
+        "email": "macaco@gmail.com",
+        "senha": "Mateuscurteummouse",
+        "confirmar": "Mateuscurteummouse"
+    },
+    {
+        "id": "598a056fd9c39",
+        "nome": "Leo ruivo gostoso",
+        "email": "gostosao@mail.com",
+        "senha": "pikafina",
+        "confirmar": "pikafina"
+    },
+    {
+        "id": "598a05a14aa8d",
+        "nome": "Leo ruivo gostoso",
+        "email": "gostosao@mail.com",
+        "senha": "pikafina",
+        "confirmar": "pikafina"
+    },
+    {
+        "id": "598a06eb06789",
+        "nome": "come",
+        "email": "come@gmail.com",
+        "senha": "pika",
+        "confirmar": "pika"
+    },
+    {
+        "id": "598a0b0614a3e",
+        "nome": "leo ruivo ",
+        "email": "embrazado@gmail.com",
+        "senha": "fogo",
+        "confirmar": "fogo"
+    },
+    {
+        "id": "598b8bc1c1390",
+        "nome": "Senhor",
+        "email": "sen@gmail.com",
+        "senha": "123",
+        "confirmar": "123"
+    },
+    {
+        "id": "598b96793ff19",
+        "nome": "silvia regina grawe hartmann",
+        "email": "pipoteca@gmail.com",
+        "senha": "cafun\u00e9",
+        "confirmar": "cafun\u00e9"
+    },
+    {
+        "id": "598d8f9b7e328",
+        "nome": "MEUNOMINHO",
+        "email": "meuemainho@email.com",
+        "senha": "minhaseinha",
+        "confirmar": "minhaseinha"
+    },
+    {
+        "id": "598d909fee316",
+        "nome": "AEH",
+        "email": "AEH@ga.co",
+        "senha": "123",
+        "confirmar": "123"
+    }
+]
